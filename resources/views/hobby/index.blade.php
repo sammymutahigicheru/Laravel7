@@ -17,6 +17,9 @@
                         </ul>
                     </div>
                 </div>
+                <div class="mt-2">
+                    <a class="btn btn-success btn-sm" href="/hobby/create"><i class="fas fa-plus-circle">Create New Hobby</i></a>
+                </div>
             </div>
         </div>
     </div>

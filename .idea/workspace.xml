@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc6e1920-80fc-4b2c-a665-35ec8fe5dfdc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/hobby/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/hobby/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HobbyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HobbyController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/hobby/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/hobby/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +182,7 @@
       <updated>1600423285667</updated>
       <workItem from="1600423296827" duration="5861000" />
       <workItem from="1600445432431" duration="5858000" />
-      <workItem from="1600500617675" duration="1288000" />
+      <workItem from="1600500617675" duration="2129000" />
     </task>
     <servers />
   </component>
@@ -206,9 +206,9 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="423" y="116" width="577" height="561" key="NewPhpClassDialog/67.27.1299.741@67.27.1299.741" timestamp="1600500771160" />
-    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog" timestamp="1600500790125">
+    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog" timestamp="1600502651151">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1600500790125" />
+    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1600502651151" />
   </component>
 </project>
