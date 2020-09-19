@@ -76,7 +76,9 @@ class HobbyController extends Controller
      */
     public function edit(Hobby $hobby)
     {
-        //
+        return view('hobby.edit')->with([
+            'hobby'=>$hobby
+        ]);
     }
 
     /**
